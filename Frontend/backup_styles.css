@@ -1,0 +1,102 @@
+
+.backup-wrapper {
+    width: 95%;
+    max-width: 1200px;
+    margin: auto;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    border-radius: 20px;
+    padding: 2rem;
+    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+
+.backup-section {
+    margin-bottom: 20px;
+    background: rgba(255, 255, 255, 0.02);
+    padding: 1.5rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+
+.backup-section h3 {
+    color: #ffffff;
+    font-size: 1.5rem;
+    margin-bottom: 1rem;
+    text-transform: capitalize;
+}
+
+
+.backup-list {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.backup-list li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 5px;
+    margin-bottom: 10px;
+    transition: background-color 0.3s;
+}
+
+.backup-list li:hover {
+    background: rgba(255, 255, 255, 0.08);
+}
+
+
+button {
+    padding: 8px 16px;
+    border: none;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+
+.button_download {
+    background-color: #1d5421;
+    color: white;
+}
+
+.button_download:hover {
+    background-color: #3edc05;
+}
+
+
+.button_delete {
+    background-color: #491f1f;
+    color: white;
+}
+
+.button_delete:hover {
+    background-color: #e82107;
+}
+
+
+.backup-list li.empty {
+    text-align: center;
+    font-style: italic;
+    color: #888;
+}
+
+
+@media (max-width: 768px) {
+    .backup-wrapper {
+        padding: 1.5rem;
+    }
+    .backup-section h3 {
+        font-size: 1.25rem;
+    }
+    button {
+        font-size: 12px;
+        padding: 6px 12px;
+    }
+}

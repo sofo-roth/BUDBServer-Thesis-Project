@@ -1,0 +1,11 @@
+SSH Port fetched: 22
+Backup Command: sshpass -p ''IT732434.a'' ssh -p 0 'it164659'@'users.iee.ihu.gr' 'mysqldump --no-tablespaces -u 'it164659' -p'budbserver2024' -h 'dblabs' 'it164659'' > 'backups/sofomanforever_gmail_com/DIPAE_SSH_DATABASE/it164659_full_backup_2025-01-16_00-34-04.sql'
+SSH Port fetched: 22
+SSH Port before command: 22
+Backup Command: sshpass -p ''IT732434.a'' ssh -p 0 'it164659'@'users.iee.ihu.gr' 'mysqldump --no-tablespaces -u 'it164659' -p'budbserver2024' -h 'dblabs' 'it164659'' > 'backups/sofomanforever_gmail_com/DIPAE_SSH_DATABASE/it164659_full_backup_2025-01-16_00-37-27.sql'
+SSH Port fetched: 22
+SSH Port after casting to int: 22
+Backup Command: sshpass -p ''IT732434.a'' ssh -p 0 'it164659'@'users.iee.ihu.gr' 'mysqldump --no-tablespaces -u 'it164659' -p'budbserver2024' -h 'dblabs' 'it164659'' > 'backups/sofomanforever_gmail_com/DIPAE_SSH_DATABASE/it164659_full_backup_2025-01-16_00-39-01.sql'
+SSH Port fetched: 22
+SSH Port after casting to int: 22
+Backup Command: sshpass -p ''IT732434.a'' ssh -p 22 'it164659'@'users.iee.ihu.gr' 'mysqldump --no-tablespaces -u 'it164659' -p'budbserver2024' -h 'dblabs' 'it164659'' > 'backups/sofomanforever_gmail_com/DIPAE_SSH_DATABASE/it164659_full_backup_2025-01-16_00-40-54.sql'

@@ -1,0 +1,53 @@
+[DEBUG] 2024-11-19 14:59:51 - Email: sofomanforever@gmail.com
+[DEBUG] 2024-11-19 14:59:51 - Email Hash: b3fd8d4c7a26b080f8a9b8b8a55f9ad5
+[DEBUG] 2024-11-19 14:59:51 - Backup Directory: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/
+[DEBUG] 2024-11-19 14:59:51 - Full File Path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_full_backup_2024-11-16_09-39-59.sql
+[DEBUG] 2024-11-19 14:59:51 - File does not exist at path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_full_backup_2024-11-16_09-39-59.sql
+[DEBUG] 2024-11-19 14:59:53 - Email: sofomanforever@gmail.com
+[DEBUG] 2024-11-19 14:59:53 - Email Hash: b3fd8d4c7a26b080f8a9b8b8a55f9ad5
+[DEBUG] 2024-11-19 14:59:53 - Backup Directory: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/
+[DEBUG] 2024-11-19 14:59:53 - Full File Path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_snapshot_backup_2024-11-16_09-55-27.sql
+[DEBUG] 2024-11-19 14:59:53 - File does not exist at path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_snapshot_backup_2024-11-16_09-55-27.sql
+[DEBUG] 2024-11-19 15:00:08 - Email: sofomanforever@gmail.com
+[DEBUG] 2024-11-19 15:00:08 - Email Hash: b3fd8d4c7a26b080f8a9b8b8a55f9ad5
+[DEBUG] 2024-11-19 15:00:08 - Backup Directory: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/
+[DEBUG] 2024-11-19 15:00:08 - Full File Path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_full_backup_2024-11-16_09-39-59.sql
+[DEBUG] 2024-11-19 15:00:08 - File does not exist at path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_full_backup_2024-11-16_09-39-59.sql
+[DEBUG] 2024-11-19 15:00:11 - Email: sofomanforever@gmail.com
+[DEBUG] 2024-11-19 15:00:11 - Email Hash: b3fd8d4c7a26b080f8a9b8b8a55f9ad5
+[DEBUG] 2024-11-19 15:00:11 - Backup Directory: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/
+[DEBUG] 2024-11-19 15:00:11 - Full File Path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_snapshot_backup_2024-11-16_09-55-27.sql
+[DEBUG] 2024-11-19 15:00:11 - File does not exist at path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_snapshot_backup_2024-11-16_09-55-27.sql
+[DEBUG] 2024-11-19 15:00:19 - Email: sofomanforever@gmail.com
+[DEBUG] 2024-11-19 15:00:19 - Email Hash: b3fd8d4c7a26b080f8a9b8b8a55f9ad5
+[DEBUG] 2024-11-19 15:00:19 - Backup Directory: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/
+[DEBUG] 2024-11-19 15:00:19 - Full File Path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_full_backup_2024-11-16_09-39-59.sql
+[DEBUG] 2024-11-19 15:00:19 - File does not exist at path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_full_backup_2024-11-16_09-39-59.sql
+[DEBUG] 2024-11-19 15:00:22 - Email: sofomanforever@gmail.com
+[DEBUG] 2024-11-19 15:00:22 - Email Hash: b3fd8d4c7a26b080f8a9b8b8a55f9ad5
+[DEBUG] 2024-11-19 15:00:22 - Backup Directory: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/
+[DEBUG] 2024-11-19 15:00:22 - Full File Path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_snapshot_backup_2024-11-16_09-55-27.sql
+[DEBUG] 2024-11-19 15:00:22 - File does not exist at path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_snapshot_backup_2024-11-16_09-55-27.sql
+[DEBUG] 2024-11-19 15:00:37 - Email: sofomanforever@gmail.com
+[DEBUG] 2024-11-19 15:00:37 - Email Hash: b3fd8d4c7a26b080f8a9b8b8a55f9ad5
+[DEBUG] 2024-11-19 15:00:37 - Backup Directory: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/
+[DEBUG] 2024-11-19 15:00:37 - Full File Path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_full_backup_2024-11-16_09-39-59.sql
+[DEBUG] 2024-11-19 15:00:37 - File does not exist at path: /var/www/html/backupserver/backups/user_b3fd8d4c7a26b080f8a9b8b8a55f9ad5/budbserver_full_backup_2024-11-16_09-39-59.sql
+[DEBUG] 2024-11-19 15:11:05 - Email: sofomanforever@gmail.com
+[DEBUG] 2024-11-19 15:11:05 - Email Hash: b3fd8d4c7a26b080f8a9b8b8a55f9ad5
+[DEBUG] 2024-11-19 15:11:05 - Backup Directory: /var/www/html/backupserver/backups/sofomanforever@gmail.com/
+[DEBUG] 2024-11-19 15:11:05 - Full File Path: /var/www/html/backupserver/backups/sofomanforever@gmail.com/budbserver_full_backup_2024-11-16_09-39-59.sql
+[DEBUG] 2024-11-19 15:11:05 - Real File Path: Not resolved
+[DEBUG] 2024-11-19 15:11:05 - File does not exist at path: /var/www/html/backupserver/backups/sofomanforever@gmail.com/budbserver_full_backup_2024-11-16_09-39-59.sql
+[DEBUG] 2024-11-19 15:11:44 - Email: sofomanforever@gmail.com
+[DEBUG] 2024-11-19 15:11:44 - Email Hash: b3fd8d4c7a26b080f8a9b8b8a55f9ad5
+[DEBUG] 2024-11-19 15:11:44 - Backup Directory: /var/www/html/backupserver/backups/sofomanforever@gmail.com/
+[DEBUG] 2024-11-19 15:11:44 - Full File Path: /var/www/html/backupserver/backups/sofomanforever@gmail.com/budbserver_full_backup_2024-11-16_09-39-59.sql
+[DEBUG] 2024-11-19 15:11:44 - Real File Path: Not resolved
+[DEBUG] 2024-11-19 15:11:44 - File does not exist at path: /var/www/html/backupserver/backups/sofomanforever@gmail.com/budbserver_full_backup_2024-11-16_09-39-59.sql
+[DEBUG] 2024-11-19 15:11:50 - Email: sofomanforever@gmail.com
+[DEBUG] 2024-11-19 15:11:50 - Email Hash: b3fd8d4c7a26b080f8a9b8b8a55f9ad5
+[DEBUG] 2024-11-19 15:11:50 - Backup Directory: /var/www/html/backupserver/backups/sofomanforever@gmail.com/
+[DEBUG] 2024-11-19 15:11:50 - Full File Path: /var/www/html/backupserver/backups/sofomanforever@gmail.com/budbserver_snapshot_backup_2024-11-16_09-55-27.sql
+[DEBUG] 2024-11-19 15:11:50 - Real File Path: Not resolved
+[DEBUG] 2024-11-19 15:11:50 - File does not exist at path: /var/www/html/backupserver/backups/sofomanforever@gmail.com/budbserver_snapshot_backup_2024-11-16_09-55-27.sql
