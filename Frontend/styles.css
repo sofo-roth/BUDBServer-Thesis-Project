@@ -1,0 +1,276 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+html, body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-image: url(login_background.jpg);
+    background-size: cover;
+    background-position: center;
+    margin:0;
+    width: 100%;
+}
+
+.wrapper {
+    width: 500px;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+    backdrop-filter: blur(10px);
+    color: white;
+    border-radius: 12px;
+    padding: 30px;
+}
+
+#db-connection-wrapper {
+    margin-top: 60px; 
+    width: 80%; 
+    max-width: 700px; 
+}
+
+.title {
+    font-size: 100px;
+    font-weight: 600;
+    background-image: linear-gradient(to left, #175b83, #b393d3);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    position: absolute;
+    top: 0px; 
+    left: 50%; 
+    transform: translateX(-50%); 
+    line-height: 1.2;
+}
+
+.title_home {
+    font-size: 100px;
+    font-weight: 600;
+    background-image: linear-gradient(to left, #175b83, #b393d3);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    line-height: 1.2;
+    margin: 0 auto; 
+}
+
+.wrapper_home {
+    width: 420px;
+    background: transparent;
+    backdrop-filter: blur(10px);
+    color:white;
+    padding: 10px 40px;
+}
+
+.wrapper h1{
+    font-size: 36px;
+    text-align: center;
+    line-height: 1.0;
+}
+
+.wrapper h2{
+    font-size: 46px;
+    text-align: center;
+    margin-bottom: 50px;
+    line-height: 1.2;
+}
+
+.wrapper h3{
+    font-size: 26px;
+    text-align: center;
+    line-height: 1.0;
+    margin-top: 70px;
+}
+
+
+
+.wrapper .input-box{
+    position: relative;
+    width: 100%;
+    height: 50px;
+    margin: 30px 0;
+}
+
+.input-box input{
+    width: 100%;
+    height: 100%;
+    background: transparent;
+    border: 2px solid rgba(255, 255, 255, .2);
+    border-radius: 40px;
+    font-size: 16px;
+    color: #fff;
+    padding: 20px 45px 20px 20px;
+}
+
+.input-box input::placeholder{
+    color: #ffffff3b;
+}
+
+.input-box i{
+    position:absolute;
+    right: 20px;
+    top: 30%;
+    transform: translate(-50%);
+    font-size: 20px;
+}
+
+.wrapper .btn{
+    width: 100%;
+    height: 45px;
+    background: #fff;
+    border: none;
+    outline: none;
+    border-radius: 40px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, .1);
+    cursor: pointer;
+    font-size: 16px;
+    color: #333;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.wrapper .register-link{
+    font-size: 14.5px;
+    text-align: center;
+    margin: 20px 0 15px;
+}
+
+.register-link p a{
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.register-link p a:hover{
+    text-decoration: underline;
+}
+
+.menu {
+    background-color: #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    position: fixed; 
+    top: 0; 
+    left: 0;
+    width: 100%; 
+    z-index: 1000; 
+}
+
+.menu ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+.menu ul li {
+    margin-right: 20px;
+}
+
+.menu ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.menu ul li a:hover {
+    background-color: #555;
+}
+
+.user-info {
+    display: flex;
+    align-items: center;
+}
+
+.logged-in {
+    color: white;
+    margin-right: 20px;
+    font-weight: bold;
+}
+
+.logout-btn {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.logout-btn:hover {
+    background-color: darkred;
+}
+
+
+.select-box {
+    position: relative;
+    width: 100%;
+    margin-bottom: 1rem;
+    margin-right: 12%;
+}
+
+.select-box select {
+    width: 100%;
+    padding: 0.75rem;
+    font-size: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+    color: #333;
+    appearance: none; 
+    font-family: 'Poppins', sans-serif;
+    outline: none;
+    transition: all 0.3s ease;
+}
+
+.select-box:hover select {
+    border-color: #666;
+    background-color: #e8e8e8;
+}
+
+
+.select-box::after {
+    content: '\25BC'; 
+    font-size: 1rem;
+    position: absolute;
+    top: 50%;
+    right: 1rem;
+    transform: translateY(-50%);
+    pointer-events: none;
+    color: #666;
+}
+
+.select-box select:focus {
+    border-color: #666;
+    box-shadow: 0 0 5px rgba(100, 100, 100, 0.3);
+}
+
+
+.wrapper .input-box {
+    margin-bottom: 1.5rem;
+}
+
+.input-box {
+    flex: 1 1 calc(50% - 15px); 
+    min-width: 250px;
+}
+
+@media (max-width: 768px) {
+    .input-box {
+        flex: 1 1 100%; 
+    }
+}
+
+.btn:disabled {
+    background-color: #b0b0b0; 
+    cursor: not-allowed;
+    opacity: 0.6;
+}
